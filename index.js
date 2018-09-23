@@ -19,6 +19,5 @@ function dec(n) {
   return n;
 }
 function makeInt(n) {
-let z = parseInt(n)
-return z;
+return parseInt(n,10);
 }

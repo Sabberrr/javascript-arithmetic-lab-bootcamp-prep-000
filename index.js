@@ -19,6 +19,6 @@ function dec(n) {
   return n;
 }
 function makeInt(n) {
-let z = parseInt(n) - parseInt(n)
+let z = parseInt(n)
 return z;
 }
